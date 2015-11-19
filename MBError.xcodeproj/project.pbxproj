@@ -136,7 +136,8 @@
 				6940B5241BFE27630071D668 /* MBError.swift */,
 				6940B5261BFE277F0071D668 /* MBUserDefaultsError.swift */,
 			);
-			path = Source;
+			name = Source;
+			path = ../Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
